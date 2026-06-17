@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ASySD"]
-	path = ASySD
-	url = https://github.com/camaradesuk/ASySD
-	registered = false
 [submodule "CiteSource"]
 	path = CiteSource
 	url = https://github.com/eshackathon/citesource
